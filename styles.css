@@ -1,0 +1,29 @@
+#weatherResults {
+  text-align: center;
+  background-color: #6dcc63;
+}
+
+#foreCast{
+  background-color:#99ea91;
+  border-radius: 25px;s
+}
+
+#forecastResults {
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: white;
+  border-radius: 10px;
+  grid-gap: 10px;
+  border-color: #6dcc63;
+}
+
+#topstuff {
+  text-align: center;
+}
+
+#weatherInput{
+  width: 275px;
+}

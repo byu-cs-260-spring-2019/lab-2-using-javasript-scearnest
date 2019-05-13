@@ -1,4 +1,4 @@
-# Lab 2: Using JavaScript
+# Lab2: Using JavaScript
 
 In this assignment you will use JavaScript to build a weather app.  To
 get the weather, we'll use the [OpenWeatherMap
@@ -7,7 +7,7 @@ API](https://openweathermap.org/api).
 ## Starting the lab
 
 To start the lab, you must follow this [GitHub Classroom
-link](https://classroom.github.com/a/aYtQNdhP). This will create a
+link](https://classroom.github.com/a/ihugWCDa). This will create a
 private repository for you using our classroom site. We will only
 grade repositories created and submitted this way.
 
@@ -58,7 +58,7 @@ stored in GitHub Classroom.
 ## Submission
 
 On Canvas, submit the URL for your website, which should be running on
-Firebase.
+your DigitalOcean server.
 
 ## Rubric for Grading
 
